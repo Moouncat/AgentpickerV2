@@ -11,3 +11,5 @@ If you cant download the ZIP or Agentpicker.exe isn't in the folder, check your 
 
 ### Usage
 By default the hotkey to pick a random agent is **Alt+a**, but you can change that however you want it.
+
+Use **Alt+h** to hide the window and **Alt+s** to show the window
