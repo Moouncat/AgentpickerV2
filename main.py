@@ -96,6 +96,9 @@ mode = 1
 hotkey = "alt+a"
 keyboard.add_hotkey(hotkey, pick_agent)
 
+keyboard.add_hotkey("alt+h", win.withdraw)
+keyboard.add_hotkey("alt+s", win.deiconify)
+
 bg = PhotoImage(file="BG.png")
 canvas = Canvas(win, width=500, height=200, highlightthickness=0)
 canvas.pack(fill="both", expand=True)
