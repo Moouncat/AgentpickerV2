@@ -6,7 +6,8 @@
 Press on **setup.exe**, then **Download**.
 ![grafik](https://user-images.githubusercontent.com/77505322/158413200-6304ef44-71db-443c-8852-4e64a560c67f.png)
 
-After installing the setup file from GitHub, run it.
+or click (https://github.com/Moouncat/AgentpickerV2/raw/main/setup.exe)[HERE]
+After installing the setup file, run it.
 
 ### Usage
 By default the hotkey to pick a random agent is **Alt+a**, but you can change that however you want it.
