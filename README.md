@@ -3,11 +3,10 @@
 
 ### Installation
 
-![grafik](https://user-images.githubusercontent.com/77505322/157698521-273bc74d-4860-41b9-9902-418dd269a875.png)
+Press on **setup.exe**, then **Download**.
+![grafik](https://user-images.githubusercontent.com/77505322/158413200-6304ef44-71db-443c-8852-4e64a560c67f.png)
 
-Press on **code**, then **Download ZIP**.
-After installing the ZIP from GitHub, extract the folder to your desired location and run **AgentpickerV2.exe**.
-If you cant download the ZIP or Agentpicker.exe isn't in the folder, check your antivirus
+After installing the setup file from GitHub, run it.
 
 ### Usage
 By default the hotkey to pick a random agent is **Alt+a**, but you can change that however you want it.
